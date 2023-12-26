@@ -1,0 +1,81 @@
+<mxfile host="app.diagrams.net" modified="2023-12-25T15:46:47.460Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ncZ_PsVHRS_pud894uKR" version="22.1.11" type="google">
+  <diagram name="第 1 页" id="T0yvc2afooI9S-7c8Vkm">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XAbvOGdbwh9DgxIDro3A-20" value="車主" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="240" y="120" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XAbvOGdbwh9DgxIDro3A-21" value="管理員" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="390" y="120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XAbvOGdbwh9DgxIDro3A-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XAbvOGdbwh9DgxIDro3A-22" target="XAbvOGdbwh9DgxIDro3A-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XAbvOGdbwh9DgxIDro3A-22" value="錄入車輛進場訊息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="205" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XAbvOGdbwh9DgxIDro3A-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XAbvOGdbwh9DgxIDro3A-23" target="XAbvOGdbwh9DgxIDro3A-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XAbvOGdbwh9DgxIDro3A-23" value="錄入車輛離場訊息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="320" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XAbvOGdbwh9DgxIDro3A-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XAbvOGdbwh9DgxIDro3A-26" target="XAbvOGdbwh9DgxIDro3A-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XAbvOGdbwh9DgxIDro3A-26" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="255" y="170" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XAbvOGdbwh9DgxIDro3A-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XAbvOGdbwh9DgxIDro3A-27" target="XAbvOGdbwh9DgxIDro3A-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XAbvOGdbwh9DgxIDro3A-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XAbvOGdbwh9DgxIDro3A-27" target="XAbvOGdbwh9DgxIDro3A-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XAbvOGdbwh9DgxIDro3A-27" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="255" y="220" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XAbvOGdbwh9DgxIDro3A-28" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="255" y="470" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XAbvOGdbwh9DgxIDro3A-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XAbvOGdbwh9DgxIDro3A-29" target="XAbvOGdbwh9DgxIDro3A-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XAbvOGdbwh9DgxIDro3A-29" value="入場" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="242.5" y="280" width="55" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XAbvOGdbwh9DgxIDro3A-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XAbvOGdbwh9DgxIDro3A-30" target="XAbvOGdbwh9DgxIDro3A-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XAbvOGdbwh9DgxIDro3A-30" value="離場" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="400" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XAbvOGdbwh9DgxIDro3A-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="XAbvOGdbwh9DgxIDro3A-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XAbvOGdbwh9DgxIDro3A-31" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="255" y="350" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XAbvOGdbwh9DgxIDro3A-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.012;entryY=0.654;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="XAbvOGdbwh9DgxIDro3A-31" target="XAbvOGdbwh9DgxIDro3A-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XAbvOGdbwh9DgxIDro3A-42" value="可辨識車牌" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="190" y="250" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XAbvOGdbwh9DgxIDro3A-43" value="可辨識車牌" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="190" y="370" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XAbvOGdbwh9DgxIDro3A-44" value="無法辨識車牌" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="270" y="205" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XAbvOGdbwh9DgxIDro3A-45" value="無法辨識車牌" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="340" width="100" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
